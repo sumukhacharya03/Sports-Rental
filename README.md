@@ -56,10 +56,9 @@ The **Sports Equipment Rental Management System** is designed to streamline the 
 
 ## 💻 Technologies Used <a name = "technologies-used"></a>
 
-- **Backend**: Python (Flask/Django)
-- **Frontend**: HTML, CSS, JavaScript
-- **Database**: SQL (e.g., MySQL, SQLite)
-- **Others**: GitHub for version control
+- **Backend**: Python
+- **Frontend**: Streamlit
+- **Database**: MySQL
 
 ## 🤝 Contributing <a name = "contributing"></a>
 
